@@ -1,4 +1,4 @@
-##Visual Tour Guide of India.##
+##Visual Tour Guide of India
 
 This dashboard is your ultimate companion for discovering the beauty of India's tourist destinations. Using a dataset sourced from Kaggle, I meticulously curated and analyzed the data using Power BI. From historical significance to entrance fees, every detail is presented in a clear and user-friendly format.🏰🛍️
 
